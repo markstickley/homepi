@@ -1,0 +1,14 @@
+{
+  "name": "homepi",
+  "version": "1.0.0",
+  "description": "Controlling my home with a Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Stickley",
+  "license": "ISC",
+  "dependencies": {
+    "homebridge": "^0.4.33"
+  }
+}
